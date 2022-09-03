@@ -6,6 +6,8 @@ A rendered version is available under [`notes`][notes].
 
 The notes are rendered using [`rust-lang/mdBook`][mdbook].
 
+Deployment: GitHub Actions
+
 ## Licese
 
 This project is licensed under the [MIT](LICENSE) license.
